@@ -1,0 +1,83 @@
+.nav{
+    border: 100%;
+    display: flex;
+    text-align: center;
+    
+}
+.nav ul li{
+    list-style-type: none;
+    display: inline;
+    margin: 1em;
+    text-align: center;
+
+}
+.purple{
+    background-color: blueviolet;
+    display: flex;
+    
+}
+.pink{
+    background-color: plum;
+    color: white;
+}
+.white{
+    color: white;
+    margin-left: 55px;
+    padding-top: 10%;
+}
+.middle{
+    text-align: center;
+}
+.clothes li{
+    margin-left: 45%;
+    display: flex;
+    
+}
+.img1{
+    display: flex;
+    gap: 60px;
+    padding-top: 5%;
+}
+.pinkk{
+    background-color: pink;
+    color: white;
+    text-align: center;
+}
+.shoes{
+   display: flex;
+}
+.big{
+    width: 550px;
+    height: 300px;
+   
+}
+.biig{
+    width: 550px;
+    height: 300px;
+   
+}
+.one{
+    height: 609px;
+    width: 600px;
+    border: 100%;
+
+    
+}
+.cent{
+    text-align: center;
+}
+.flx{
+    display: flex;
+    gap: 15px;
+}
+footer{
+    display: flex;
+    gap: 130px;
+}
+.large{
+    width: 1250px;
+    
+}
+.gap{
+    gap: 100%;
+}
